@@ -14,3 +14,14 @@ h2 {
   color: aliceblue;
   background-color: rgb(79, 79, 116);
 }
+
+h1 {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+ul li {
+  height: 25px;
+  list-style-type: none;
+  text-align: center;
+}
